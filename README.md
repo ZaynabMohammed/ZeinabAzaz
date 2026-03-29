@@ -44,10 +44,9 @@
 
 ---
 ## 📊 Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark)
 
 ---
 
