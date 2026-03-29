@@ -21,8 +21,8 @@
 
 ### 📜 Certifications
 
--  AWS Cloud Practitioner *(Pending)*  
--  RHCSA  
+-  AWS Certified Solutions Architect – Associate  | March 2026 - March 2029
+-  Red Hat Certified System Administrator (RHCSA) | May 2025 - May 2028
 
 ---
 
@@ -44,21 +44,17 @@
 
 ---
 
-### 📊 Stats:
+## 📊 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark" alt="Zeinab's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark"/>
-</p>
+![Zeinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZeinabAzaz&theme=dark" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZeinabAzaz&theme=dark&cache_seconds=1800)
 
 ---
 
