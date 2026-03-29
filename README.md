@@ -43,12 +43,11 @@
 </p>
 
 ---
-
 ## 📊 Stats
 
-![Zeinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
